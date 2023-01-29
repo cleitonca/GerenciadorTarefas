@@ -14,8 +14,6 @@ void ConfigureServices(IServiceCollection serviceCollection, string connectionSt
     builder.Services.AddDbContext<TarefaContext>(options => options.UseSqlServer(connectionString));
 }
 
-    
-
 var app = builder.Build();
 
 // Configure the HTTP request pipeline.

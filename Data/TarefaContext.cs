@@ -10,7 +10,7 @@ namespace GerenciadorTarefas.Data
             "Catalog=<database>;Persist Security Info=False;User ID=<username>;Password=<password>;" +
             "MultipleActiveResultSets=False;Encrypt=True;TrustServerCertificate=False;Connection Timeout=30;";
 
-        public DbSet<Tarefa> Tarefas { get; set; }
+        public DbSet<TarefaModel> Tarefas { get; set; }
 
         public TarefaContext(DbContextOptions<TarefaContext> options) : base(options) { }
 
