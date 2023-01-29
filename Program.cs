@@ -9,10 +9,8 @@ var builder = WebApplication.CreateBuilder(args);
 builder.Services.AddControllersWithViews();
 
 
-void ConfigureServices(IServiceCollection serviceCollection, string connectionString)
-{
-    builder.Services.AddDbContext<TarefaContext>(options => options.UseSqlServer(connectionString));
-}
+builder.Services.AddDbContext<TarefaContext>(options => options.UseSqlServer(builder.Configuration.GetConnectionString("DataBase")));
+
 
 var app = builder.Build();
 

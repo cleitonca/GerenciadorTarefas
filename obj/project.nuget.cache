@@ -1,6 +1,6 @@
 {
   "version": 2,
-  "dgSpecHash": "dipqwvWwKwy1bWIS50g9KY4UN5RvQdGzfJBETo/BNqLA579icsJjRJX2wXsrPpjrTP50McLSw8pVrh8p5esl8w==",
+  "dgSpecHash": "wnerZpPGw+8BsD6W7ZGExpz4FAbcrVOacjMBTZQjNIRotBNycWCY6J/TLZZjAZWpuEN5x9UhyhiPp51Xwqz9LA==",
   "success": true,
   "projectFilePath": "D:\\Estudo de Desenvolvimento\\CSharp\\GerenciadorTarefas\\GerenciadorTarefas.csproj",
   "expectedPackageFiles": [
@@ -17,6 +17,7 @@
     "C:\\Users\\Cleiton\\.nuget\\packages\\microsoft.entityframeworkcore.design\\7.0.2\\microsoft.entityframeworkcore.design.7.0.2.nupkg.sha512",
     "C:\\Users\\Cleiton\\.nuget\\packages\\microsoft.entityframeworkcore.relational\\7.0.2\\microsoft.entityframeworkcore.relational.7.0.2.nupkg.sha512",
     "C:\\Users\\Cleiton\\.nuget\\packages\\microsoft.entityframeworkcore.sqlserver\\7.0.2\\microsoft.entityframeworkcore.sqlserver.7.0.2.nupkg.sha512",
+    "C:\\Users\\Cleiton\\.nuget\\packages\\microsoft.entityframeworkcore.tools\\7.0.2\\microsoft.entityframeworkcore.tools.7.0.2.nupkg.sha512",
     "C:\\Users\\Cleiton\\.nuget\\packages\\microsoft.extensions.caching.abstractions\\7.0.0\\microsoft.extensions.caching.abstractions.7.0.0.nupkg.sha512",
     "C:\\Users\\Cleiton\\.nuget\\packages\\microsoft.extensions.caching.memory\\7.0.0\\microsoft.extensions.caching.memory.7.0.0.nupkg.sha512",
     "C:\\Users\\Cleiton\\.nuget\\packages\\microsoft.extensions.configuration.abstractions\\7.0.0\\microsoft.extensions.configuration.abstractions.7.0.0.nupkg.sha512",
